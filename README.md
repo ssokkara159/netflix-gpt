@@ -7,10 +7,11 @@
 - Browse (After authentication)
 - Header
 - Main Movie
-  . Trailer in Baackground
-  . Title & Description
-  ''MovieLists\*N
-  . Movie Suggestions
+
+  - Trailer in Baackground
+  - Title & Description
+    - MovieLists \* N
+  - Movie Suggestions
 
 - NetflixGPT
   - SearchBar
