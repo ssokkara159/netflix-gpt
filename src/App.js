@@ -1,9 +1,13 @@
 //import logo from "./logo.svg";
-import "./App.css";
+//import "./App.css";
+import Body from "./Components/Body";
 
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold text-violet-900 ">welcome to gpt</h1>
+    <div>
+      <h1 className="text-3xl font-bold text-violet-900 ">welcome to gpt</h1>
+      <Body />
+    </div>
   );
 }
 //export default App;
