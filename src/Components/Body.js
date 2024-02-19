@@ -12,7 +12,7 @@ const Body = () => {
 
     {
       path: "/Browser",
-      element: <Brgigiyfiguojh
+      element: <Browser />,
     },
   ]);
 
