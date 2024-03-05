@@ -17,8 +17,9 @@ const Login = () => {
           alt="Bg"
         />
       </div>
-      <div className="w-56 h-56 bg-black px-4 p-12 relative z-10 mx-auto left-0 right-0">
+      <div className="w-60 h-120 bg-black object-position: center; px-4 p-12 relative z-10 mx-auto left-0 right-0 ">
         <form
+          className=" inline-block align-middle w-70 h-90 object-position: center; "
           onSubmit={(e) => {
             e.preventDefault();
           }}
