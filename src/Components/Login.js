@@ -17,7 +17,7 @@ const Login = () => {
           alt="Bg"
         />
       </div>
-      <div className="w-60 h-120 bg-black object-position: center; px-4 p-12 relative z-10 mx-auto left-0 right-0 ">
+      <div className="w-60 h-120 bg-black object-position: center px-4 p-12 relative z-10 mx-auto left-0 right-0 ">
         <form
           className=" inline-block align-middle w-70 h-90 object-position: center; "
           onSubmit={(e) => {
@@ -34,7 +34,7 @@ const Login = () => {
 
           <input
             type="email"
-            placeholder="Enter Your Email"
+            placeholder="Enter Your e-mail address"
             className="p-2 m-1 rounded-md"
           />
           <input
